@@ -15,7 +15,7 @@ width: 50%;
 height: 100vh;
 }
 .flex1{
-    background-image:url(/images/wallpaper.jpg);
+    background-image:url(../images/wallpaper.jpg);
     background-position:center ;
     background-repeat: no-repeat;
     position: relative;
